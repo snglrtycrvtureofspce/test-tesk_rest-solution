@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("test-tesk_rest-solution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ad2f207c28b04e35b22c4a5f3887ffc5c70a68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf5d9c7e9c66544b73ded63b53d5a63ab008613f")]
 [assembly: System.Reflection.AssemblyProductAttribute("test-tesk_rest-solution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("test-tesk_rest-solution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
